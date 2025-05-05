@@ -1,0 +1,5 @@
+{
+        "jupyter.disableJupyterAutoStart": true,
+        "jupyter.interactiveWindow.codeLens.commands": "jupyter.runcell, jupyter.runallcellsabove, jupyter.debugcell",
+        "jupyter.showVariableViewWhenDebugging": true
+}
